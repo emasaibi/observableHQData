@@ -1,0 +1,206 @@
+﻿Model,Accuracy,Precision,F1 Score,Recall,Timestamp,OrigClass,MajorVote
+AWS,0.49,0.81,0.5,0.9,1/1/2021,positive,positive
+Google CP,0.56,0.49,0.78,0.4,1/1/2021,positive,positive
+Azure,0.3,0.56,0.81,0.56,1/1/2021,positive,positive
+CARP GPT,0.59,0.3,0.78,0.3,1/1/2021,positive,negative
+CHAT GPT,0.45,0.59,0.67,0.59,1/1/2021,positive,positive
+AWS,0.68,0.45,0.91,0.45,2/1/2021,positive,positive
+Google CP,0.5,0.68,0.59,0.68,2/1/2021,positive,positive
+Azure,0.63,0.5,0.97,0.5,2/1/2021,positive,positive
+CARP GPT,0.97,0.63,0.4,0.63,2/1/2021,neutral,neutral
+CHAT GPT,0.4,0.97,0.5,0.97,2/1/2021,negative,negative
+AWS,0.5,0.4,0.78,0.68,3/1/2021,neutral,neutral
+Google CP,0.78,0.5,0.81,0.5,3/1/2021,positive,negative
+Azure,0.81,0.78,0.45,0.63,3/1/2021,neutral,neutral
+CARP GPT,0.49,0.81,0.9,0.97,3/1/2021,positive,positive
+CHAT GPT,0.56,0.4,0.4,0.4,3/1/2021,positive,positive
+AWS,0.3,0.8,0.56,0.5,4/1/2021,positive,positive
+Google CP,0.59,0.89,0.3,0.78,4/1/2021,positive,positive
+Azure,0.56,0.6,0.59,0.81,4/1/2021,positive,positive
+CARP GPT,0.3,0.8,0.45,0.49,4/1/2021,positive,positive
+CHAT GPT,0.59,0.6,0.68,0.56,4/1/2021,neutral,neutral
+AWS,0.3,0.8,0.5,0.3,5/1/2021,positive,positive
+Google CP,0.59,0.9,0.63,0.6,5/1/2021,positive,neutral
+Azure,0.56,0.5,0.97,0.7,5/1/2021,negative,negative
+CARP GPT,0.3,0.55,0.68,0.6,5/1/2021,negative,negative
+CHAT GPT,0.59,0.8,0.7,0.7,5/1/2021,positive,positive
+AWS,0.3,0.8,0.5,0.3,6/1/2021,neutral,neutral
+Google CP,0.59,0.9,0.63,0.6,6/1/2021,neutral,neutral
+Azure,0.56,0.5,0.97,0.7,6/1/2021,neutral,neutral
+CARP GPT,0.3,0.55,0.68,0.6,6/1/2021,neutral,neutral
+CHAT GPT,0.59,0.8,0.7,0.7,6/1/2021,neutral,neutral
+AWS,0.5,0.4,0.78,0.68,7/1/2021,positive,neutral
+Google CP,0.78,0.5,0.81,0.5,7/1/2021,positive,positive
+Azure,0.81,0.78,0.45,0.63,7/1/2021,negative,negative
+CARP GPT,0.49,0.81,0.9,0.97,7/1/2021,positive,positive
+CHAT GPT,0.56,0.4,0.4,0.4,7/1/2021,positive,positive
+AWS,0.9,0.7,0.56,0.49,8/1/2021,positive,positive
+Google CP,0.7,0.89,0.3,0.56,8/1/2021,positive,positive
+Azure,0.3,0.8,0.59,0.3,8/1/2021,positive,positive
+CARP GPT,0.87,0.45,0.45,0.59,8/1/2021,positive,positive
+CHAT GPT,0.73,0.68,0.68,0.56,8/1/2021,positive,positive
+AWS,0.47,0.5,0.5,0.3,9/1/2021,negative,negative
+Google CP,0.96,0.63,0.63,0.59,9/1/2021,neutral,neutral
+Azure,0.6,0.97,0.97,0.49,9/1/2021,positive,neutral
+CARP GPT,0.7,0.4,0.4,0.56,9/1/2021,positive,positive
+CHAT GPT,0.89,0.5,0.68,0.3,9/1/2021,negative,negative
+AWS,0.9,0.7,0.56,0.49,10/1/2021,positive,positive
+Google CP,0.7,0.89,0.3,0.56,10/1/2021,negative,negative
+Azure,0.3,0.8,0.59,0.3,10/1/2021,positive,positive
+CARP GPT,0.87,0.45,0.45,0.59,10/1/2021,positive,positive
+CHAT GPT,0.73,0.68,0.68,0.56,10/1/2021,positive,positive
+AWS,0.47,0.5,0.5,0.3,11/1/2021,positive,positive
+Google CP,0.96,0.63,0.63,0.59,11/1/2021,positive,positive
+Azure,0.6,0.97,0.97,0.49,11/1/2021,positive,positive
+CARP GPT,0.7,0.4,0.4,0.56,11/1/2021,neutral,neutral
+CHAT GPT,0.89,0.5,0.68,0.3,11/1/2021,neutral,neutral
+AWS,0.8,0.78,0.5,0.59,12/1/2021,positive,positive
+Google CP,0.45,0.81,0.63,0.45,12/1/2021,positive,positive
+Azure,0.68,0.49,0.97,0.78,12/1/2021,negative,negative
+CARP GPT,0.5,0.59,0.4,0.68,12/1/2021,positive,positive
+CHAT GPT,0.63,0.49,0.5,0.56,12/1/2021,neutral,neutral
+AWS,0.97,0.56,0.78,0.3,1/1/2022,positive,positive
+Google CP,0.4,0.3,0.81,0.59,1/1/2022,neutral,neutral
+Azure,0.5,0.59,0.49,0.45,1/1/2022,positive,positive
+CARP GPT,0.78,0.45,0.84,0.68,1/1/2022,positive,positive
+CHAT GPT,0.81,0.9,0.56,0.5,1/1/2022,positive,positive
+AWS,0.49,0.4,0.97,0.63,2/1/2022,positive,positive
+Google CP,0.56,0.56,0.4,0.97,2/1/2022,positive,positive
+Azure,0.3,0.3,0.5,0.4,2/1/2022,positive,positive
+CARP GPT,0.59,0.59,0.78,0.7,2/1/2022,negative,negative
+CHAT GPT,0.45,0.45,0.81,0.6,2/1/2022,neutral,neutral
+AWS,0.68,0.68,0.49,0.3,3/1/2022,positive,positive
+Google CP,0.5,0.5,0.59,0.87,3/1/2022,positive,positive
+Azure,0.63,0.63,0.45,0.73,3/1/2022,negative,negative
+CARP GPT,0.97,0.97,0.9,0.47,3/1/2022,positive,positive
+CHAT GPT,0.4,0.68,0.4,0.96,3/1/2022,positive,positive
+AWS,0.5,0.5,0.56,0.6,4/1/2022,positive,neutral
+Google CP,0.78,0.63,0.3,0.7,4/1/2022,neutral,neutral
+Azure,0.81,0.97,0.59,0.89,4/1/2022,neutral,neutral
+CARP GPT,0.49,0.4,0.45,0.8,4/1/2022,positive,positive
+CHAT GPT,0.56,0.5,0.68,0.45,4/1/2022,positive,positive
+AWS,0.3,0.78,0.5,0.68,5/1/2022,positive,positive
+Google CP,0.59,0.81,0.63,0.5,5/1/2022,positive,positive
+Azure,0.56,0.49,0.97,0.63,5/1/2022,negative,negative
+CARP GPT,0.3,0.56,0.68,0.97,5/1/2022,positive,positive
+CHAT GPT,0.59,0.3,0.5,0.4,5/1/2022,positive,positive
+AWS,0.49,0.59,0.63,0.9,6/1/2022,positive,positive
+Google CP,0.56,0.56,0.97,0.7,6/1/2022,positive,positive
+Azure,0.3,0.3,0.4,0.8,6/1/2022,positive,positive
+CARP GPT,0.59,0.59,0.5,0.6,6/1/2022,positive,positive
+CHAT GPT,0.45,0.3,0.78,0.6,6/1/2022,positive,positive
+AWS,0.68,0.59,0.81,0.68,7/1/2022,positive,positive
+Google CP,0.5,0.56,0.49,0.5,7/1/2022,positive,positive
+Azure,0.63,0.3,0.56,0.63,7/1/2022,positive,positive
+CARP GPT,0.97,0.59,0.3,0.97,7/1/2022,positive,positive
+CHAT GPT,0.4,0.81,0.59,0.4,7/1/2022,positive,positive
+AWS,0.5,0.49,0.78,0.5,8/1/2022,positive,positive
+Google CP,0.78,0.56,0.76,0.78,8/1/2022,positive,positive
+Azure,0.81,0.3,0.69,0.81,8/1/2022,positive,positive
+CARP GPT,0.49,0.59,0.59,0.49,8/1/2022,positive,positive
+CHAT GPT,0.56,0.45,0.76,0.56,8/1/2022,positive,negative
+AWS,0.3,0.68,0.67,0.3,9/1/2022,positive,positive
+Google CP,0.59,0.5,0.92,0.59,9/1/2022,positive,positive
+Azure,0.56,0.63,0.81,0.56,9/1/2022,positive,positive
+CARP GPT,0.3,0.97,0.43,0.3,9/1/2022,neutral,neutral
+CHAT GPT,0.59,0.4,0.85,0.59,9/1/2022,negative,negative
+AWS,0.3,0.5,0.81,0.3,10/1/2022,positive,positive
+Google CP,0.59,0.78,0.49,0.59,10/1/2022,neutral,neutral
+Azure,0.56,0.81,0.56,0.56,10/1/2022,positive,positive
+CARP GPT,0.3,0.49,0.3,0.3,10/1/2022,positive,positive
+CHAT GPT,0.59,0.81,0.59,0.59,10/1/2022,positive,positive
+AWS,0.3,0.49,0.45,0.5,11/1/2022,positive,positive
+Google CP,0.59,0.56,0.68,0.6,11/1/2022,negative,negative
+Azure,0.56,0.3,0.5,0.78,11/1/2022,positive,positive
+CARP GPT,0.3,0.59,0.63,0.8,11/1/2022,negative,negative
+CHAT GPT,0.59,0.45,0.97,0.5,11/1/2022,positive,positive
+AWS,0.3,0.68,0.4,0.6,12/1/2022,positive,positive
+Google CP,0.59,0.5,0.5,0.3,12/1/2022,positive,positive
+Azure,0.56,0.63,0.78,0.7,12/1/2022,positive,positive
+CARP GPT,0.3,0.97,0.81,0.8,12/1/2022,positive,positive
+CHAT GPT,0.59,0.4,0.56,0.9,12/1/2022,neutral,neutral
+AWS,0.97,0.5,0.76,0.3,1/1/2023,positive,positive
+Google CP,0.4,0.78,0.87,0.59,1/1/2023,positive,positive
+Azure,0.5,0.81,0.84,0.45,1/1/2023,positive,positive
+CARP GPT,0.78,0.59,0.69,0.68,1/1/2023,positive,positive
+CHAT GPT,0.81,0.87,0.87,0.5,1/1/2023,positive,positive
+AWS,0.49,0.67,0.97,0.63,2/1/2023,positive,positive
+Google CP,0.56,0.76,0.4,0.97,2/1/2023,positive,positive
+Azure,0.3,0.69,0.5,0.4,2/1/2023,positive,positive
+CARP GPT,0.59,0.81,0.78,0.7,2/1/2023,negative,negative
+CHAT GPT,0.45,0.76,0.81,0.8,2/1/2023,negative,negative
+AWS,0.68,0.4,0.49,0.9,3/1/2023,negative,negative
+Google CP,0.5,0.59,0.4,0.56,3/1/2023,positive,positive
+Azure,0.63,0.97,0.8,0.3,3/1/2023,neutral,neutral
+CARP GPT,0.97,0.4,0.89,0.59,3/1/2023,negative,negative
+CHAT GPT,0.4,0.5,0.6,0.56,3/1/2023,neutral,neutral
+AWS,0.5,0.78,0.8,0.3,4/1/2023,positive,positive
+Google CP,0.78,0.81,0.6,0.59,4/1/2023,neutral,neutral
+Azure,0.81,0.59,0.8,0.63,4/1/2023,positive,positive
+CARP GPT,0.49,0.56,0.9,0.97,4/1/2023,neutral,neutral
+CHAT GPT,0.56,0.3,0.67,0.4,4/1/2023,positive,positive
+AWS,0.3,0.59,0.77,0.5,5/1/2023,positive,positive
+Google CP,0.59,0.63,0.86,0.78,5/1/2023,positive,positive
+Azure,0.56,0.97,0.59,0.81,5/1/2023,positive,positive
+CARP GPT,0.3,0.4,0.97,0.59,5/1/2023,negative,negative
+CHAT GPT,0.59,0.7,0.4,0.45,5/1/2023,positive,positive
+AWS,0.49,0.81,0.5,0.9,6/1/2023,positive,positive
+Google CP,0.56,0.49,0.78,0.4,6/1/2023,negative,negative
+Azure,0.3,0.56,0.81,0.56,6/1/2023,positive,positive
+CARP GPT,0.59,0.3,0.78,0.3,6/1/2023,negative,negative
+CHAT GPT,0.45,0.59,0.67,0.59,6/1/2023,positive,positive
+AWS,0.68,0.45,0.91,0.45,7/1/2023,neutral,neutral
+Google CP,0.5,0.68,0.59,0.68,7/1/2023,positive,positive
+Azure,0.63,0.5,0.97,0.5,7/1/2023,negative,negative
+CARP GPT,0.97,0.63,0.4,0.63,7/1/2023,neutral,neutral
+CHAT GPT,0.4,0.97,0.5,0.97,7/1/2023,positive,positive
+AWS,0.5,0.4,0.78,0.68,8/1/2023,positive,neutral
+Google CP,0.78,0.5,0.81,0.5,8/1/2023,positive,positive
+Azure,0.81,0.78,0.45,0.63,8/1/2023,positive,neutral
+CARP GPT,0.49,0.81,0.9,0.97,8/1/2023,negative,negative
+CHAT GPT,0.56,0.4,0.4,0.4,8/1/2023,positive,positive
+AWS,0.3,0.8,0.56,0.5,9/1/2023,positive,negative
+Google CP,0.59,0.89,0.3,0.78,9/1/2023,positive,positive
+Azure,0.56,0.6,0.59,0.81,9/1/2023,positive,negative
+CARP GPT,0.3,0.8,0.45,0.49,9/1/2023,neutral,neutral
+CHAT GPT,0.59,0.6,0.68,0.56,9/1/2023,positive,positive
+AWS,0.3,0.8,0.5,0.3,10/1/2023,positive,positive
+Google CP,0.59,0.9,0.63,0.6,10/1/2023,positive,positive
+Azure,0.56,0.5,0.97,0.7,10/1/2023,positive,neutral
+CARP GPT,0.3,0.55,0.68,0.6,10/1/2023,positive,positive
+CHAT GPT,0.59,0.8,0.7,0.7,10/1/2023,negative,negative
+AWS,0.5,0.78,0.8,0.3,11/1/2023,neutral,neutral
+Google CP,0.78,0.81,0.6,0.59,11/1/2023,positive,positive
+Azure,0.81,0.59,0.8,0.63,11/1/2023,positive,neutral
+CARP GPT,0.49,0.56,0.9,0.97,11/1/2023,neutral,neutral
+CHAT GPT,0.56,0.3,0.67,0.4,11/1/2023,negative,negative
+AWS,0.49,0.67,0.97,0.63,12/1/2023,neutral,neutral
+Google CP,0.56,0.76,0.4,0.97,12/1/2023,positive,positive
+Azure,0.3,0.69,0.5,0.4,12/1/2023,positive,positive
+CARP GPT,0.59,0.81,0.78,0.7,12/1/2023,positive,negative
+CHAT GPT,0.45,0.76,0.81,0.8,12/1/2023,positive,positive
+AWS,0.49,0.4,0.97,0.63,1/1/2024,positive,positive
+Google CP,0.56,0.56,0.4,0.97,1/1/2024,positive,positive
+Azure,0.3,0.3,0.5,0.4,1/1/2024,positive,positive
+CARP GPT,0.59,0.59,0.78,0.7,1/1/2024,negative,negative
+CHAT GPT,0.45,0.45,0.81,0.6,1/1/2024,neutral,neutral
+AWS,0.68,0.68,0.49,0.3,2/1/2024,positive,positive
+Google CP,0.5,0.5,0.59,0.87,2/1/2024,positive,positive
+Azure,0.63,0.63,0.45,0.73,2/1/2024,negative,negative
+CARP GPT,0.97,0.97,0.9,0.47,2/1/2024,positive,positive
+CHAT GPT,0.4,0.68,0.4,0.96,2/1/2024,positive,positive
+AWS,0.3,0.8,0.56,0.5,3/1/2024,positive,negative
+Google CP,0.59,0.89,0.3,0.78,3/1/2024,positive,positive
+Azure,0.56,0.6,0.59,0.81,3/1/2024,positive,negative
+CARP GPT,0.3,0.8,0.45,0.49,3/1/2024,neutral,neutral
+CHAT GPT,0.59,0.6,0.68,0.56,3/1/2024,positive,positive
+AWS,0.3,0.8,0.5,0.3,4/1/2024,positive,positive
+Google CP,0.59,0.9,0.63,0.6,4/1/2024,positive,positive
+Azure,0.56,0.5,0.97,0.7,4/1/2024,positive,neutral
+CARP GPT,0.3,0.55,0.68,0.6,4/1/2024,positive,positive
+CHAT GPT,0.59,0.8,0.7,0.7,4/1/2024,negative,negative
+AWS,0.5,0.78,0.8,0.3,5/1/2024,neutral,neutral
+Google CP,0.78,0.81,0.6,0.59,4/1/2024,positive,positive
+Azure,0.81,0.59,0.8,0.63,4/1/2024,positive,neutral
+CARP GPT,0.49,0.56,0.9,0.97,4/1/2024,neutral,neutral
+CHAT GPT,0.56,0.3,0.67,0.4,4/1/2024,negative,negative
